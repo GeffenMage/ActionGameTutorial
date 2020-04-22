@@ -2,7 +2,8 @@
 
 [ext_resource path="res://Assets/ImportedResources/Player/Player.png" type="Texture" id=1]
 [ext_resource path="res://Assets/Scripts/Player/Player.gd" type="Script" id=2]
-[ext_resource path="res://Assets/Animations/Player/RunRight.tres" type="Animation" id=3]
+[ext_resource path="res://Assets/Animations/Player/PlayerAnimations.tres" type="Animation" id=3]
+
 
 [sub_resource type="CapsuleShape2D" id=1]
 radius = 4.0
